@@ -1,8 +1,3 @@
-' quickjs.bi -- Full, accurate FreeBASIC binding for quickjs-ng (as of 2025)
-' Based strictly on the provided quickjs.h
-' Auto-adapts: 32-bit â†?JS_NAN_BOXING=1; 64-bit â†?struct mode
-' Use with fbc -m32 or fbc -m64
-
 #ifndef __QUICKJS_BI__
 #define __QUICKJS_BI__
 
